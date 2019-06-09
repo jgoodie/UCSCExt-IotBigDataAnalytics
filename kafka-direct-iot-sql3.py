@@ -92,11 +92,11 @@ if __name__ == "__main__":
                              format_number(vibration['avg(vibration2)'], 6).alias('Average Vibration2')).show()
 
             # Search
-            print("Vibration Greater than 0.99:\n=====")
+            print("Vibration Greater than 0.99 may indicate maintenance is needed:\n=====")
             sqlContext.sql("select eventTime, payload.data.vibration1, payload.data.vibration2 \
                                         from iotmsgsTable where payload.data.vibration1 > 0.99").show(n=100)
 
-            print("Safety Harness by Location:\n=====")
+            print("Safety Harness metrics less than 1 indicates maintenance needed:\n=====")
             harness = sqlContext.sql("select payload.data.blockLocation, payload.data.safetyHarness \
                                      from iotmsgsTable").groupBy("blockLocation").mean()
             harness.select(harness['blockLocation'],

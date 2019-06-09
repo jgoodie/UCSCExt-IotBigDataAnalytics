@@ -33,7 +33,7 @@ from time import sleep
 
 
 
-def gen_iotmsg(location, numPassengers, passengerWeight):
+def gen_iotmsg(location, numPassengers, passengerWeight, needsMaintenance):
     """
     Function to generate/simulate theme park roller coaster IoT Data
     :return:
@@ -88,19 +88,35 @@ def gen_iotmsg(location, numPassengers, passengerWeight):
         randSpeed = 5.0
         randAcceleration = 0
         randBrake = 0
-        harness = 1
+        if needsMaintenance:
+           harness = np.random.randint(0, 2)
+        else:
+           harness = 1
     if location == "endBrake":
         randBrake = 1
-        harness = 1
+        if needsMaintenance:
+           harness = np.random.randint(0, 2)
+        else:
+           harness = 1
     if location == "station":
         randBrake = 1
-        harness = 0
+        if needsMaintenance:
+           harness = np.random.randint(0, 2)
+        else:
+           harness = 1
     if location == "midCourseBrake":
         randBrake = 1
-        harness = 1
+        if needsMaintenance:
+           harness = np.random.randint(0, 2)
+        else:
+           harness = 1
     if "section" in location:
         randBrake = 0
-        harness = 1
+        if needsMaintenance:
+           harness = np.random.randint(0, 2)
+        else:
+           harness = 1
+
     iotmsg = {
                     "guid": randGUID,
                     "destination": destination,
@@ -132,10 +148,14 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("-c", "--count", type=int, default=1, help="The number of messages to send, default 1")
     ap.add_argument("-r", "--rate", type=int, default=0, help="The rate at which to stream the data")
+    ap.add_argument("-m", "--maintenance", action='store_true', help="Generate data that triggers maintenance alerts")
     args = vars(ap.parse_args())
 
     # Get number of messages from argparse, default 1
     num_msgs = args['count']
+
+    # Needs Maintenance?
+    needsMaintenance = args['maintenance']
 
     # Block location
     # https://www.coaster101.com/2011/11/23/coasters-101-brakes-blocks-and-sensors/
@@ -149,7 +169,7 @@ def main():
         passengerWeight = np.random.uniform(36.0, 136)
 
         for location in blockLocations:
-            iotmsg = gen_iotmsg(location, randPassenger, passengerWeight)
+            iotmsg = gen_iotmsg(location, randPassenger, passengerWeight, needsMaintenance)
             if (location is "endBrake") and (msg == num_msgs-1):
                 print(json.dumps(iotmsg, indent=4))
             else:

@@ -1,0 +1,2302 @@
+[
+{
+    "guid": "9ffe65ba-e222-4083-89e8-98411d356d5a",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.430867",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 64.4,
+            "ambientHumidity": 81.1,
+            "speed": 26.2,
+            "acceleration": 16.2,
+            "vibration1": -0.8470158307408213,
+            "vibration2": 0.5184997523888721,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7e052014-3930-4740-a692-8718b7f9286a",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.431748",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 0,
+            "ambientTemp": 47.1,
+            "ambientHumidity": 41.4,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.2964315919375342,
+            "vibration2": -0.5158714014516042,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "81c6b299-68dc-4c19-bc96-b41043da9b13",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.432405",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 88.6,
+            "ambientHumidity": 81.5,
+            "speed": 38.7,
+            "acceleration": 18.8,
+            "vibration1": 0.7888922577404331,
+            "vibration2": 0.3473052528448203,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "e4462763-8551-4f80-b354-6fe0d2970988",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.433077",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 59.6,
+            "ambientHumidity": 87.1,
+            "speed": 13.8,
+            "acceleration": 10.5,
+            "vibration1": -0.9902538170497795,
+            "vibration2": 0.5079572575653765,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7c4653a2-2538-4f3e-ac31-351a87f21237",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.433752",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 71.6,
+            "ambientHumidity": 85.8,
+            "speed": 42.1,
+            "acceleration": 11.4,
+            "vibration1": -0.48798475389444873,
+            "vibration2": 0.6193652260561275,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "3425be0a-5cc3-463e-b973-a76a0a763d18",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.434392",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 103.1,
+            "ambientHumidity": 87.5,
+            "speed": 42.9,
+            "acceleration": 7.8,
+            "vibration1": -0.10727678429033427,
+            "vibration2": 0.09046946849162071,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "9e75ba54-829f-44fa-b3ef-cc1a61ed02a7",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.435025",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 80.9,
+            "ambientHumidity": 0.3,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.7982349007459132,
+            "vibration2": 0.04144609251929489,
+            "blockLocation": "section4",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "d2579bc7-55cd-48a6-bab7-ba33996f955f",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.435645",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 0,
+            "ambientTemp": 2.4,
+            "ambientHumidity": 16.7,
+            "speed": 39.6,
+            "acceleration": 18.6,
+            "vibration1": -0.646699993595196,
+            "vibration2": -0.587536778651691,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "00488723-be26-4508-ad12-b6d65c227bfa",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.436243",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 1,
+            "ambientTemp": 50.6,
+            "ambientHumidity": 43.9,
+            "speed": 33.0,
+            "acceleration": 3.9,
+            "vibration1": -0.24619049872134666,
+            "vibration2": -0.18472605601718955,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "95db7d4b-d73c-4b70-9fe9-4f2deb16bde6",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.436864",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 12,
+            "totalTrainMass": 4122.0,
+            "safetyHarness": 0,
+            "ambientTemp": 0.0,
+            "ambientHumidity": 46.6,
+            "speed": 0.7,
+            "acceleration": 9.4,
+            "vibration1": -0.9906768533414904,
+            "vibration2": -0.969221459904461,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "fceafde9-a1f2-4c13-b749-c222291dbb75",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.437521",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 0,
+            "ambientTemp": 1.3,
+            "ambientHumidity": 22.4,
+            "speed": 21.2,
+            "acceleration": 5.6,
+            "vibration1": 0.3314175682186357,
+            "vibration2": -0.5522143780635991,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "4244b15a-c4bf-4c6a-9b3c-5ba7e42861b4",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.438127",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 70.4,
+            "ambientHumidity": 29.7,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.8566660359582127,
+            "vibration2": -0.10575003910444854,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "1541d20b-7515-488a-910b-0658960db7aa",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.438778",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 0,
+            "ambientTemp": 54.1,
+            "ambientHumidity": 68.5,
+            "speed": 5.1,
+            "acceleration": 4.2,
+            "vibration1": -0.8420826841075278,
+            "vibration2": 0.42655716675786864,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "c8344ada-9999-4c40-b267-6a3b553986ce",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.439384",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 16.5,
+            "ambientHumidity": 80.3,
+            "speed": 3.0,
+            "acceleration": 11.2,
+            "vibration1": 0.9345126986072634,
+            "vibration2": 0.8930192550037112,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "40d44160-ee88-44ac-b233-6c3018f90122",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.440004",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 30.5,
+            "ambientHumidity": 6.9,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.6675315436180417,
+            "vibration2": 0.633725392572809,
+            "blockLocation": "section3",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "5eda0f4b-798c-463c-a912-d6978329e64f",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.440629",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 0,
+            "ambientTemp": 13.8,
+            "ambientHumidity": 29.8,
+            "speed": 44.5,
+            "acceleration": 12.7,
+            "vibration1": 0.9334152473775483,
+            "vibration2": 0.9908848681582388,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "79611528-8124-4dc3-8de2-6f54f4d11e53",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.441235",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 15.6,
+            "ambientHumidity": 3.2,
+            "speed": 11.2,
+            "acceleration": 19.6,
+            "vibration1": -0.6372820059821381,
+            "vibration2": 0.5800569095711979,
+            "blockLocation": "section4",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "af6a1cdc-1229-4c50-94a4-c3dd254e109b",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.442576",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 34.5,
+            "ambientHumidity": 45.3,
+            "speed": 8.8,
+            "acceleration": 13.5,
+            "vibration1": 0.5406408174555976,
+            "vibration2": 0.8345490845909919,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "6d8f71f0-8381-4d14-b48f-104fc71784df",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.443236",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 53.6,
+            "ambientHumidity": 39.1,
+            "speed": 25.1,
+            "acceleration": 18.7,
+            "vibration1": 0.9995744653890902,
+            "vibration2": -0.9522826067380552,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "1f1f35a3-eecc-4601-9d64-81182a820788",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.443904",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 3,
+            "totalTrainMass": 3702.8,
+            "safetyHarness": 1,
+            "ambientTemp": 1.0,
+            "ambientHumidity": 47.3,
+            "speed": 4.2,
+            "acceleration": 1.6,
+            "vibration1": 0.5788054609516045,
+            "vibration2": 0.9728872635109659,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "56f4bbf4-1e03-4eee-ad3a-4fd26f3c5beb",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.444573",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 0,
+            "ambientTemp": 12.7,
+            "ambientHumidity": 37.2,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.9999422369136666,
+            "vibration2": -0.9904665028066895,
+            "blockLocation": "station",
+            "chainDog": 1,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "8cbe3c5f-1452-4c17-8961-ae4b640b6312",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.445167",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 1,
+            "ambientTemp": 34.1,
+            "ambientHumidity": 74.2,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.38587298949894566,
+            "vibration2": 0.09046946849162002,
+            "blockLocation": "liftHill",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "603ccb6c-ce9f-42e1-b3e6-eab7ada7b0ba",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.445777",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 0,
+            "ambientTemp": 82.3,
+            "ambientHumidity": 60.3,
+            "speed": 22.9,
+            "acceleration": 18.9,
+            "vibration1": -0.8251250647146099,
+            "vibration2": -0.5522143780635989,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 1
+        }
+    }
+},
+{
+    "guid": "1622cb21-aa32-4b6f-bf66-5d2c9b172d18",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.446374",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 1,
+            "ambientTemp": 44.3,
+            "ambientHumidity": 10.8,
+            "speed": 34.3,
+            "acceleration": 18.6,
+            "vibration1": -0.00921275135538452,
+            "vibration2": 0.1514277775045767,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 1
+        }
+    }
+},
+{
+    "guid": "a6118988-f1b2-467b-b8fc-b41e322f772f",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.446999",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 1,
+            "ambientTemp": 96.6,
+            "ambientHumidity": 96.6,
+            "speed": 23.2,
+            "acceleration": 5.5,
+            "vibration1": 0.9983865885974316,
+            "vibration2": -0.9996180769633478,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "5fd749bf-b808-497b-9bdc-cf36492f85d6",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.447641",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 1,
+            "ambientTemp": 96.3,
+            "ambientHumidity": 50.1,
+            "speed": 39.7,
+            "acceleration": 8.4,
+            "vibration1": -0.9641144303808117,
+            "vibration2": 0.9782751139520408,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 1
+        }
+    }
+},
+{
+    "guid": "6eb778ef-cb2a-4ce6-9c37-67efbfa273e5",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.448235",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 1,
+            "ambientTemp": 30.2,
+            "ambientHumidity": 74.4,
+            "speed": 18.7,
+            "acceleration": 16.2,
+            "vibration1": -0.18321678410299208,
+            "vibration2": 0.9189578116202306,
+            "blockLocation": "section4",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "020720c7-3c3c-439a-b66b-212b6ab1271d",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.449672",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 0,
+            "ambientTemp": 30.9,
+            "ambientHumidity": 7.2,
+            "speed": 23.0,
+            "acceleration": 18.9,
+            "vibration1": -0.9183512029061445,
+            "vibration2": 0.9011591297438094,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7b36ea25-348f-4efb-becc-deed7c2637a4",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.450279",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 0,
+            "ambientTemp": 11.0,
+            "ambientHumidity": 65.3,
+            "speed": 35.2,
+            "acceleration": 15.2,
+            "vibration1": 0.08894017881454251,
+            "vibration2": 0.6663874669086258,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "4814085c-89e3-4944-9c93-aa34801ac7b7",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.450892",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3689.6,
+            "safetyHarness": 1,
+            "ambientTemp": 44.8,
+            "ambientHumidity": 64.1,
+            "speed": 10.0,
+            "acceleration": 16.1,
+            "vibration1": 0.5662164074764112,
+            "vibration2": -0.8294380535330719,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "35c177a0-7099-447c-8d10-0b503973242c",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.451513",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 1,
+            "ambientTemp": 12.2,
+            "ambientHumidity": 49.7,
+            "speed": 2.3,
+            "acceleration": 10.3,
+            "vibration1": 0.11948133818779369,
+            "vibration2": 0.9852489166151494,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "9fffec8a-c6e1-46d0-bae3-7463c4b3a6a9",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.452104",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 25.3,
+            "ambientHumidity": 18.2,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.6181589862206055,
+            "vibration2": -0.4293327138486738,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7c757232-248f-490f-a903-808917600469",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.452717",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 69.7,
+            "ambientHumidity": 9.8,
+            "speed": 20.4,
+            "acceleration": 5.3,
+            "vibration1": -0.21931191539783387,
+            "vibration2": 0.7486673752487423,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "0dd3d213-f30d-430c-a6ce-69e00657c18f",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.453318",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 18.8,
+            "ambientHumidity": 97.1,
+            "speed": 30.4,
+            "acceleration": 19.7,
+            "vibration1": 0.7011100198920527,
+            "vibration2": -0.9522826067380551,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "8369378e-25d9-48fa-b4f8-445bfbc4bd00",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.453932",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 1,
+            "ambientTemp": 39.8,
+            "ambientHumidity": 14.3,
+            "speed": 19.9,
+            "acceleration": 2.6,
+            "vibration1": -0.6811369369936764,
+            "vibration2": -0.6360979669749999,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "87544181-615b-478d-a7f5-b64bd1fa0d10",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.454580",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 54.9,
+            "ambientHumidity": 76.4,
+            "speed": 37.1,
+            "acceleration": 7.8,
+            "vibration1": 0.4056141516616117,
+            "vibration2": 0.8478310435830846,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "0e60bb6f-475c-4aee-a0b2-145f88d2f772",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.455187",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 33.4,
+            "ambientHumidity": 74.3,
+            "speed": 23.4,
+            "acceleration": 10.1,
+            "vibration1": -0.4334884345393544,
+            "vibration2": 0.6571785195064617,
+            "blockLocation": "section4",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "3b07016e-b82c-4aea-8c62-7d0970f982d2",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.455828",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 60.8,
+            "ambientHumidity": 79.5,
+            "speed": 35.1,
+            "acceleration": 13.8,
+            "vibration1": 0.9950234924929431,
+            "vibration2": -0.6455280526090298,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "99052418-e69e-4068-b2f4-4c2189646e12",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.456424",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 0,
+            "ambientTemp": 34.3,
+            "ambientHumidity": 36.4,
+            "speed": 29.2,
+            "acceleration": 13.7,
+            "vibration1": 0.3915319168087448,
+            "vibration2": -0.7973090692727582,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "c8faa58e-b85e-4bf4-9850-57e1ad414bf9",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.457045",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 10,
+            "totalTrainMass": 4378.7,
+            "safetyHarness": 1,
+            "ambientTemp": 99.8,
+            "ambientHumidity": 8.3,
+            "speed": 34.6,
+            "acceleration": 4.3,
+            "vibration1": -0.9792196967473991,
+            "vibration2": -0.1967842536168783,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "5495a579-18a4-4518-909d-a7b9689f961e",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.457817",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 1,
+            "ambientTemp": 56.4,
+            "ambientHumidity": 60.3,
+            "speed": 3.8,
+            "acceleration": 18.8,
+            "vibration1": 0.8780466695524302,
+            "vibration2": -0.8294380535330723,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "ff3cad71-63a1-41e1-bd2c-2e916609d38e",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.458388",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 1,
+            "ambientTemp": 50.8,
+            "ambientHumidity": 28.0,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.2551092471349179,
+            "vibration2": -0.49467154295364407,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "acafa658-680a-4b00-b4d7-6005e8d2dcc7",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.458960",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 0,
+            "ambientTemp": 44.4,
+            "ambientHumidity": 91.8,
+            "speed": 6.6,
+            "acceleration": 5.4,
+            "vibration1": -0.25213869951884793,
+            "vibration2": 0.9756547974383836,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "c4d4a2fe-51ec-41c9-abe9-92985f8d355c",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.459947",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 1,
+            "ambientTemp": 41.6,
+            "ambientHumidity": 65.2,
+            "speed": 26.5,
+            "acceleration": 8.5,
+            "vibration1": 0.9990087510854974,
+            "vibration2": 0.8510718864966212,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "6a3b2a4d-a3ad-4bc3-9de1-e43a6708ecfa",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.460565",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 0,
+            "ambientTemp": 79.9,
+            "ambientHumidity": 28.8,
+            "speed": 19.3,
+            "acceleration": 6.6,
+            "vibration1": 0.36880972629785547,
+            "vibration2": -0.007677325981094519,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "2616b52c-aece-4e43-8ffc-775b65023b0f",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.461165",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 0,
+            "ambientTemp": 29.8,
+            "ambientHumidity": 93.7,
+            "speed": 43.7,
+            "acceleration": 11.5,
+            "vibration1": -0.4334884345393544,
+            "vibration2": 0.7954517690687807,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "d5a00eb7-59cb-41d5-a197-5e39047ac25b",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.461796",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 1,
+            "ambientTemp": 32.0,
+            "ambientHumidity": 47.1,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.9969353781497574,
+            "vibration2": 0.9637056438899408,
+            "blockLocation": "section4",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "023fefea-d325-4a2e-9e33-839bd104913d",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.462402",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 0,
+            "ambientTemp": 5.9,
+            "ambientHumidity": 13.0,
+            "speed": 29.6,
+            "acceleration": 14.2,
+            "vibration1": 0.8838590170915072,
+            "vibration2": -0.8943970308204585,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7ee9b0af-617a-414b-a27d-ce99b5bfd547",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.463026",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 1,
+            "ambientTemp": 7.0,
+            "ambientHumidity": 76.3,
+            "speed": 18.9,
+            "acceleration": 19.4,
+            "vibration1": -0.23725085449811248,
+            "vibration2": 0.41541501300188605,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "cded7792-4814-4139-a9be-67dd3624db89",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.463638",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 7,
+            "totalTrainMass": 3647.8,
+            "safetyHarness": 1,
+            "ambientTemp": 83.7,
+            "ambientHumidity": 15.5,
+            "speed": 9.2,
+            "acceleration": 8.0,
+            "vibration1": 0.1286230229232847,
+            "vibration2": 0.36452411910625715,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "ec38dbc8-a96a-4080-87e9-256f1cac1148",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.464233",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 91.8,
+            "ambientHumidity": 34.0,
+            "speed": 40.6,
+            "acceleration": 7.2,
+            "vibration1": 0.6900790114821119,
+            "vibration2": 0.5393484524185284,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "dc94cef2-97b0-430d-959e-8b937a4a065a",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.464859",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 2.2,
+            "ambientHumidity": 19.3,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.9976137786755678,
+            "vibration2": 0.9996982296182912,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "389c0ab1-82cf-4ed5-b2c5-10bcc92696f4",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.465483",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 95.1,
+            "ambientHumidity": 39.0,
+            "speed": 17.1,
+            "acceleration": 14.1,
+            "vibration1": -0.7907757369376986,
+            "vibration2": 0.7065636985874022,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "109fadce-6b1e-42d1-9557-6b48214a6795",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.466103",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 92.9,
+            "ambientHumidity": 50.0,
+            "speed": 2.2,
+            "acceleration": 18.4,
+            "vibration1": -0.92779615846253,
+            "vibration2": 0.39294434918332605,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7b22efa2-4993-4b73-861a-68ab2645f036",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.466710",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 106.2,
+            "ambientHumidity": 19.6,
+            "speed": 4.5,
+            "acceleration": 17.8,
+            "vibration1": -0.9555081269747875,
+            "vibration2": -0.6594901073541392,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "caf334b3-a2fb-42ed-8dfd-e54fb26b415f",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.467320",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 1,
+            "ambientTemp": 81.0,
+            "ambientHumidity": 31.2,
+            "speed": 0.8,
+            "acceleration": 19.9,
+            "vibration1": 0.31106073873950346,
+            "vibration2": 0.5289640103269624,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "d673249a-43ee-4810-85cc-ec92c7bb71a3",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.467965",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 1,
+            "ambientTemp": 47.8,
+            "ambientHumidity": 58.0,
+            "speed": 42.9,
+            "acceleration": 13.0,
+            "vibration1": 0.02763512634489885,
+            "vibration2": -0.8294380535330719,
+            "blockLocation": "section4",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "ef904d5d-e5d7-41f5-b1aa-5697f10ae415",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.468599",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 1,
+            "ambientTemp": 97.8,
+            "ambientHumidity": 60.8,
+            "speed": 19.9,
+            "acceleration": 17.5,
+            "vibration1": -0.6945110849580691,
+            "vibration2": -0.999429490929718,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "000d7003-bc18-4b94-9f2a-38f2e4e6d09a",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.469199",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 25.1,
+            "ambientHumidity": 60.0,
+            "speed": 6.6,
+            "acceleration": 6.2,
+            "vibration1": -0.9987165071710528,
+            "vibration2": -0.8494554705585066,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "1e873a6c-7369-4a81-8880-3e35c674ffc9",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.469833",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 0,
+            "totalTrainMass": 3300.0,
+            "safetyHarness": 0,
+            "ambientTemp": 20.1,
+            "ambientHumidity": 72.8,
+            "speed": 44.7,
+            "acceleration": 9.2,
+            "vibration1": -0.3943558551133187,
+            "vibration2": -0.6867378637583251,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 1
+        }
+    }
+},
+{
+    "guid": "0d02ec4f-0345-4171-b48a-f3d91eb42806",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.471078",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 4.2,
+            "ambientHumidity": 62.5,
+            "speed": 36.4,
+            "acceleration": 7.4,
+            "vibration1": 0.25213869951884815,
+            "vibration2": 0.8207634412072763,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "bced69e5-7c66-41de-8976-a760057e5cb6",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.471709",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 22.2,
+            "ambientHumidity": 6.4,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.998556256472097,
+            "vibration2": -0.8118953213122656,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "50c34617-9517-451d-b316-e1f2fc759fd8",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.472362",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 90.8,
+            "ambientHumidity": 68.1,
+            "speed": 29.0,
+            "acceleration": 15.5,
+            "vibration1": -0.7476485528478087,
+            "vibration2": 0.9699729297654248,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "60a1d3ca-a22e-4338-baed-ba4b60684808",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.472976",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 48.2,
+            "ambientHumidity": 50.9,
+            "speed": 5.4,
+            "acceleration": 4.6,
+            "vibration1": -0.8109979465095014,
+            "vibration2": -0.607237585622417,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "e61c2090-a2a1-4f33-b92a-31e0f402532a",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.473699",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 93.3,
+            "ambientHumidity": 89.6,
+            "speed": 3.1,
+            "acceleration": 1.9,
+            "vibration1": -0.024565213169322503,
+            "vibration2": 0.10269580435251403,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "644b07f4-816e-458b-ba44-e47ec261b5b1",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.474301",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 47.2,
+            "ambientHumidity": 61.7,
+            "speed": 2.9,
+            "acceleration": 17.8,
+            "vibration1": 0.3544944461844626,
+            "vibration2": -0.1544626059309256,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "5c30da64-c068-4041-b702-01468b57b8a1",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.474859",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 1,
+            "ambientTemp": 4.6,
+            "ambientHumidity": 47.8,
+            "speed": 20.0,
+            "acceleration": 8.2,
+            "vibration1": 0.9555081269747874,
+            "vibration2": 0.6889669190756866,
+            "blockLocation": "section4",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "6b48ff3d-11d8-4710-9fc3-3aba98778643",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.475486",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 97.6,
+            "ambientHumidity": 61.4,
+            "speed": 27.8,
+            "acceleration": 3.6,
+            "vibration1": -0.9893797319125902,
+            "vibration2": 0.9699729297654247,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "760368ee-0eaa-495a-9415-69b762613908",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.476113",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 0,
+            "ambientTemp": 72.1,
+            "ambientHumidity": 39.5,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.9865336807482975,
+            "vibration2": -0.06291311508413405,
+            "blockLocation": "section6",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "6adcb773-4568-41c3-b242-1f86cb83d9aa",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.476740",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 4,
+            "totalTrainMass": 3511.3,
+            "safetyHarness": 1,
+            "ambientTemp": 107.9,
+            "ambientHumidity": 81.8,
+            "speed": 9.0,
+            "acceleration": 17.8,
+            "vibration1": -0.7098159359936539,
+            "vibration2": 0.10269580435251403,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "2e963dd7-f2ba-4e60-a551-d708570f1ba4",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.477390",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 1,
+            "ambientTemp": 79.2,
+            "ambientHumidity": 36.2,
+            "speed": 10.2,
+            "acceleration": 1.0,
+            "vibration1": -0.5328676139566777,
+            "vibration2": -0.5924956925446614,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "770d3eb1-2833-4922-9645-cdfc1a1935d6",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.478011",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 1,
+            "ambientTemp": 34.0,
+            "ambientHumidity": 83.2,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.14990982597065533,
+            "vibration2": -0.6313468416386656,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "ba056c70-43df-4445-99a5-46500230e040",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.478670",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 0,
+            "ambientTemp": 30.8,
+            "ambientHumidity": 81.9,
+            "speed": 10.3,
+            "acceleration": 7.9,
+            "vibration1": 0.9398675527560649,
+            "vibration2": 0.2949647763464877,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "c52660e7-f12b-47d3-998b-fcd918595536",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.479270",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 0,
+            "ambientTemp": 66.0,
+            "ambientHumidity": 30.2,
+            "speed": 31.9,
+            "acceleration": 0.7,
+            "vibration1": -0.9243196219346286,
+            "vibration2": 0.9993210593295473,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 1
+        }
+    }
+},
+{
+    "guid": "46d25144-8664-47e3-b2da-914c3cd46c87",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.479879",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 1,
+            "ambientTemp": 47.0,
+            "ambientHumidity": 85.0,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.3110607387395028,
+            "vibration2": 0.0782294816127535,
+            "blockLocation": "section3",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "04db9ed4-6073-4fb2-8135-309e96b70e08",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.480485",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 1,
+            "ambientTemp": 18.2,
+            "ambientHumidity": 75.8,
+            "speed": 43.6,
+            "acceleration": 17.9,
+            "vibration1": -0.7141288112357059,
+            "vibration2": 0.732156044202923,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "b62af4d7-b0c2-4d10-a5eb-0e2c03b15df1",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.481088",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 1,
+            "ambientTemp": 2.1,
+            "ambientHumidity": 75.3,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.5788054609516039,
+            "vibration2": 0.9742894070715805,
+            "blockLocation": "section4",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "84f2c1ff-8e87-42f5-90fb-a304f20d5c0d",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.482065",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 0,
+            "ambientTemp": 13.5,
+            "ambientHumidity": 84.6,
+            "speed": 8.5,
+            "acceleration": 15.9,
+            "vibration1": -0.11032951228392213,
+            "vibration2": -0.999429490929718,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "66af6ff9-f68d-46cf-bc84-1d7423237b7d",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.482687",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 1,
+            "ambientTemp": 61.6,
+            "ambientHumidity": 45.0,
+            "speed": 10.6,
+            "acceleration": 3.4,
+            "vibration1": 0.2223070739497403,
+            "vibration2": 0.3587979598090132,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "ab471a29-d5e3-475c-b222-835d70eea6c3",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.483305",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 6,
+            "totalTrainMass": 3970.6,
+            "safetyHarness": 0,
+            "ambientTemp": 101.3,
+            "ambientHumidity": 93.6,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": 0.31397787768940477,
+            "vibration2": -0.05064916883871264,
+            "blockLocation": "endBrake",
+            "chainDog": 1,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "3b418706-8f08-4588-8f20-85951273194d",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.483925",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 0,
+            "ambientTemp": 37.5,
+            "ambientHumidity": 56.1,
+            "speed": 43.2,
+            "acceleration": 9.0,
+            "vibration1": 0.27288103039912714,
+            "vibration2": -0.9776338584588152,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "467b6df2-1c4c-4157-8c93-eb81f3f1a855",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.484554",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 1,
+            "ambientTemp": 77.8,
+            "ambientHumidity": 35.5,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.9695983378455693,
+            "vibration2": 0.9795299412524945,
+            "blockLocation": "liftHill",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "4ab099de-5da8-4c13-a223-e3aaf64cc103",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.485152",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 0,
+            "ambientTemp": 76.7,
+            "ambientHumidity": 38.2,
+            "speed": 30.2,
+            "acceleration": 19.1,
+            "vibration1": -0.8404223981320295,
+            "vibration2": -0.9813428848863827,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "348c51fd-fd2a-463f-bba3-5407ab89f6b7",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.485767",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 1,
+            "ambientTemp": 63.3,
+            "ambientHumidity": 44.7,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.9996593317388369,
+            "vibration2": 0.6145315335092267,
+            "blockLocation": "section2",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "ebfa205d-68ea-4efc-a7a0-3a9ae6c2bee6",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.486394",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 1,
+            "ambientTemp": 15.4,
+            "ambientHumidity": 90.5,
+            "speed": 33.5,
+            "acceleration": 18.5,
+            "vibration1": 0.9573017436214368,
+            "vibration2": -0.35018341045019596,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "564da93d-239f-4079-964a-555d4164b4dc",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.487018",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 1,
+            "ambientTemp": 76.7,
+            "ambientHumidity": 68.6,
+            "speed": 1.8,
+            "acceleration": 10.8,
+            "vibration1": -0.9545977976047176,
+            "vibration2": -0.013818882672854148,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "0bfe2906-1f38-4290-9030-08a8034b638d",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.487626",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 0,
+            "ambientTemp": 5.8,
+            "ambientHumidity": 8.2,
+            "speed": 7.8,
+            "acceleration": 2.5,
+            "vibration1": -0.43625381026638155,
+            "vibration2": 0.9996982296182912,
+            "blockLocation": "section4",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "414dd61d-81a6-451e-8e7c-b39e6f816502",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.488487",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 0,
+            "ambientTemp": 39.0,
+            "ambientHumidity": 45.5,
+            "speed": 15.9,
+            "acceleration": 11.0,
+            "vibration1": -0.5250491824725398,
+            "vibration2": 0.7954517690687808,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "37283953-6371-48ab-be6b-68f4317e78d7",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.489218",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 0,
+            "ambientTemp": 95.9,
+            "ambientHumidity": 82.0,
+            "speed": 24.2,
+            "acceleration": 19.7,
+            "vibration1": -0.9860267487472519,
+            "vibration2": -0.6867378637583252,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "c2f9e506-9e62-47b5-afb7-9a7b4dd74f09",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.489852",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 1,
+            "totalTrainMass": 3385.9,
+            "safetyHarness": 1,
+            "ambientTemp": 61.5,
+            "ambientHumidity": 48.0,
+            "speed": 36.1,
+            "acceleration": 0.8,
+            "vibration1": -0.422386311615093,
+            "vibration2": -0.5053095955081187,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "94f71331-0f95-49d0-9705-dcd98dd7ad43",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.490485",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 1,
+            "ambientTemp": 104.5,
+            "ambientHumidity": 44.3,
+            "speed": 1.3,
+            "acceleration": 15.9,
+            "vibration1": -0.37451167995172613,
+            "vibration2": 0.736325697651197,
+            "blockLocation": "station",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "a88d0363-0b83-488f-a081-60287c214188",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.491088",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 0,
+            "ambientTemp": 103.0,
+            "ambientHumidity": 64.2,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.6229751725426212,
+            "vibration2": 0.30667953851515306,
+            "blockLocation": "liftHill",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "f53a13d8-385b-40d6-a31f-2a9d1fa566ca",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.491698",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 1,
+            "ambientTemp": 102.8,
+            "ambientHumidity": 68.0,
+            "speed": 15.6,
+            "acceleration": 5.2,
+            "vibration1": -0.20430566397596836,
+            "vibration2": 0.42655716675786864,
+            "blockLocation": "section1",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "fdb2fa6d-b3cc-4a92-8283-ea663a96a757",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.492283",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 0,
+            "ambientTemp": 96.4,
+            "ambientHumidity": 20.6,
+            "speed": 42.2,
+            "acceleration": 14.8,
+            "vibration1": -0.5013291749824523,
+            "vibration2": -0.6408250967390805,
+            "blockLocation": "section2",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "d61a1bb0-5fdc-4527-95a4-cba20d1b6e36",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.493233",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 1,
+            "ambientTemp": 25.5,
+            "ambientHumidity": 4.0,
+            "speed": 2.8,
+            "acceleration": 6.6,
+            "vibration1": -0.843735028576929,
+            "vibration2": -0.905114507250321,
+            "blockLocation": "section3",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "7153f2ff-15c5-448a-8324-477b3f44120c",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.493791",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 0,
+            "ambientTemp": 41.1,
+            "ambientHumidity": 31.9,
+            "speed": 17.7,
+            "acceleration": 13.4,
+            "vibration1": -0.9479739103141918,
+            "vibration2": -0.587536778651691,
+            "blockLocation": "midCourseBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "2c6791a8-6610-4457-8585-48f07119a174",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.494337",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 1,
+            "ambientTemp": 49.1,
+            "ambientHumidity": 31.2,
+            "speed": 5.0,
+            "acceleration": 0,
+            "vibration1": -0.5560489053405963,
+            "vibration2": 0.21781355874885125,
+            "blockLocation": "section4",
+            "chainDog": 1,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "04be5270-e886-4ed4-a05f-3de075b8330b",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.494929",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 1,
+            "ambientTemp": 103.2,
+            "ambientHumidity": 96.0,
+            "speed": 15.5,
+            "acceleration": 6.1,
+            "vibration1": -0.10727678429033427,
+            "vibration2": 0.8311495743062888,
+            "blockLocation": "section5",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "b0141490-ad81-4df7-90e6-e82be5839fff",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.495542",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 0,
+            "ambientTemp": 1.4,
+            "ambientHumidity": 99.4,
+            "speed": 38.2,
+            "acceleration": 3.5,
+            "vibration1": 0.36595351876780524,
+            "vibration2": -0.5053095955081187,
+            "blockLocation": "section6",
+            "chainDog": 0,
+            "brakeEngaged": 0,
+            "moisture": 0
+        }
+    }
+},
+{
+    "guid": "14eb7db0-80ef-4283-bf49-69fbe76abfb8",
+    "destination": "b2aebc43-2318-4e4e-884a-0834b276d43d",
+    "eventTime": "2019-06-09T19:58:20.496137",
+    "payload": {
+        "format": "urn:themepark:sensors:rollercoaster",
+        "data": {
+            "passengerCount": 11,
+            "totalTrainMass": 4477.7,
+            "safetyHarness": 0,
+            "ambientTemp": 109.3,
+            "ambientHumidity": 82.4,
+            "speed": 30.8,
+            "acceleration": 19.5,
+            "vibration1": -0.9999705288986172,
+            "vibration2": -0.9904665028066896,
+            "blockLocation": "endBrake",
+            "chainDog": 0,
+            "brakeEngaged": 1,
+            "moisture": 0
+        }
+    }
+}
+]
